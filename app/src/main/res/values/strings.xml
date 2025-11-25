@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Country Flags</string>
+    <string name="france">France</string>
+    <string name="japan">Japan</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="germany">Germany</string>
+</resources>
